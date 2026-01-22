@@ -30,4 +30,5 @@ You're ready to begin
 Don't let a day do by in doubt
 The answer lies within
 
-A new line for first commig in feature branch
+A new line for first commig in feature Branch
+secon line for second commig 
